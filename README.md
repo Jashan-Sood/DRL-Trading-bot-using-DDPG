@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project applies **Deep Learning** techniques to solve a specific problem using advanced neural networks. It includes data preprocessing, model training, evaluation, and deployment.
+This project applies **Deep Learning** techniques to solve a specific problem using advanced neural networks. It includes data preprocessing, model training, evaluation, and deployment. The dataset includes 5 **NIFTY50** stocks which are HDFC Bank, Infosys, L&T, Reliance and TCS.
 
 ## Features
 
